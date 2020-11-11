@@ -1,4 +1,4 @@
-# FundamentalsOfProgramming
+# Fundamentals Of Programming
 
 This is the first of many in a series of 'Fundamentals of Tech'! This git repo contains two skeleton code projects that you can have a play around with by:
 - Downloading the files
